@@ -1,0 +1,10 @@
+Exercício 3:
+
+	A primeira otimização não funciona. Ao final de uma aplicação ela não ordena o vetor, portanto teria que ser aplicada sucessivas vezes para ordená-lo completamente, o que a faz ter uma complexidade maior do que a implementação inicial em relação ao tempo.
+
+	A primeira otimização também não funciona. Ao final de uma aplicação ela garante que apenas o lado esquerdo estára ordenado em ordem crescente, portanto teria que ser aplicada sucessivas vezes para ordená-lo completamente, o que a faz ter uma complexidade maior do que a implementação inicial em relação ao tempo.
+
+Exercício 4: 
+
+	A partir do meio, a função faz todos os elementos à esquerda que forem maior do que o elemento em questão serem deslocados uma posição para direita e coloca esse elemento a frente dos que foram deslocados quando encontra um outro elemento que é maior que ele. Dependendo do estado inicial do vetor, pode funcionar, mas não é garantido. O resultado final pode ser a ordenação de apenas uma parte do vetor. Logo, não funciona.
+	A diferença entre ela e a função intercala desenvolvida em sala é que ela não utiliza um vetor auxiliar, mas sua complexidade em relação ao tempo é maior do que a da primeira (O(n²)).
