@@ -1,3 +1,0 @@
-EX 01 - O código faz a remoção do elemento procurado, mas acessando os campos previous e next diretamente, sem precisar de ponteiros auxiliares alem do node. 
-
-EX 02 - Complexidade O(n) pois usa apenas um laço de repetição;
