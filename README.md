@@ -1,2 +1,2 @@
-# ed1
-Repositório dedicado aos exercícios realizados durante a matéria de Estrutura de Dados 1, presidida pelo Professor Doutor Rodrigo Minetto, na Universidade Tecnológica Federal do Paraná.
+# Estrutura de Dados 1
+Repositório dedicado aos exercícios resolvidos durante a matéria de Estrutura de Dados 1. Cada lista era resolvida semanalmente a fim de fixar os conteúdos apresentados em aula. A matéria cobriu as estruturas de dados fundamentais, como fila, pilha e lista, além de apresentar os principais algoritmos de ordenação, desde os básicos, _bubble, insertion e selection sort_, aos mais eficientes como _quick, merge e counting sort_. Por fim, também foram apresentados recursos de pesquisa de elementos, como a busca binária. Ao longo da disciplina, ainda foram abordados conceitos como complexidade e recursão.
